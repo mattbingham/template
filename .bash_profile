@@ -1,8 +1,8 @@
 # Enable tab completion
-source ~/.udacity-terminal-config/git-completion.bash
+source ~/./git-completion.bash
 
 # Change command prompt
-source ~/.udacity-terminal-config/git-prompt.sh
+source ~/./git-prompt.sh
 
 # colors!
 red="\[\033[38;5;203m\]"
