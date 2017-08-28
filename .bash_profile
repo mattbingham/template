@@ -21,3 +21,16 @@ $ $reset"
 # alias cd
 alias projects='cd "$HOME\Dropbox\- Personal\Training\Udacity\FSWD nanodegree\code\projects"'
 alias subl="/c/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"
+
+# Git Shortcuts
+alias gs='git status'
+alias ga='git add'
+alias gp='git pull'
+alias gpu='git push'
+alias gc='git commit -v'
+alias gca='git commit -v -a' # Does both add and commit in same command, add -m 'blah' for comment
+alias gco='git checkout'
+alias gl='git log --oneline'
+alias gb='git branch'
+alias gba='git branch -a'
+alias gco='git checkout'
