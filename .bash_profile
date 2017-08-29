@@ -34,3 +34,6 @@ alias gl='git log --oneline'
 alias gb='git branch'
 alias gba='git branch -a'
 alias gco='git checkout'
+
+# Py shortcuts
+alias py='python' # Assumes only one version installed
