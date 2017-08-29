@@ -1,8 +1,8 @@
 # Enable tab completion
-source ~/./git-completion.bash
+source $HOME/git-completion.bash
 
 # Change command prompt
-source ~/./git-prompt.sh
+source $HOME/git-prompt.sh
 
 # colors!
 red="\[\033[38;5;203m\]"
